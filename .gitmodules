@@ -1,0 +1,3 @@
+[submodule "toolkit_plugins/org.ditaschools.doctypes"]
+	path = toolkit_plugins/org.ditaschools.doctypes
+	url = https://github.com/ditaschools/org.ditaschools.doctypes.git
